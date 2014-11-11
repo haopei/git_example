@@ -1,4 +1,4 @@
-Only visible in second branch.
+Only visible in second branch, not master.
 
 "A journey of a thousand miles begin with a single step." 
 
