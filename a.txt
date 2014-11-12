@@ -5,3 +5,6 @@
 "Not all hardworking are successful, but all successful are hard working."
 
 This is for the QUEEN!
+
+This sentence was included right after the local repository was pushed to the remote origin
+
