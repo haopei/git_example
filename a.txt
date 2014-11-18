@@ -9,3 +9,5 @@ This is for the QUEEN!
 This sentence was included right after the local repository was pushed to the remote origin
 
 This change will be committed locally, but will be pushed yet
+
+Another local commit
