@@ -23,4 +23,4 @@ Ordered lists can be done using numbers:
 
 `code formating` is done using ` wrap.
 
-Create links like this `[Visit github](www.github.com)`
+Create links like this `[Visit github](www.github.com)`. Example: [Visit github](www.github.com) 
