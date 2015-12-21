@@ -1,6 +1,6 @@
-git_example - experimenting with markdown on readme.md
+First Experiments with GitHub
 ===========
-I am using this repository to experiment with git.
+I am using this repository to experiment with version control and collaboration on GitHub.
 
 #h1
 ##h2
@@ -24,3 +24,4 @@ Ordered lists can be done using numbers:
 `code formating` is done using ` wrap.
 
 Create links like this `[Visit github](www.github.com)`. Example: [Visit github](www.github.com) 
+Markdown is easier with [dillinger.io](dillinger.io)
